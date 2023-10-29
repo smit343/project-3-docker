@@ -64,8 +64,9 @@ Available routes:
 ## Diagram
 
 
+https://github.com/smit343/project-3-docker/assets/60944678/5af02757-e4e6-480a-8d3b-c1259e5666f2)
 
 ## Authors
 
 - smitkumar patel - https://github.com/smit343
-- shivam tayal - https://github.com/
+- shivam tayal - https://github.com/shiv-1991-shiv
